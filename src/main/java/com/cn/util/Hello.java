@@ -5,5 +5,7 @@ public class Hello {
         System.out.println("hello");
         System.out.println("1122");
         System.out.println("9804");
+        System.out.println("1122");
+        System.out.println("9804");
     }
 }
